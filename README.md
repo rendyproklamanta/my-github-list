@@ -1,7 +1,5 @@
 # 🔧 My Github Project List
 
----
-
 ## 🌐 Frontend
 
 ### ⚛️ React
@@ -10,8 +8,6 @@
 
 ### ⚡ Next.js
 - Next.js (JavaScript)
-
----
 
 ## 🖥️ Backend
 
@@ -25,20 +21,14 @@
 ### 💠 .NET
 - .NET API Boilerplate (C#)
 
----
-
 ## 🖥️ Desktop Apps
 
 - Electron + React
-
----
 
 ## 📱 Mobile Apps
 
 - React Native
 - Flutter
-
----
 
 ## 🚀 DevOps
 
